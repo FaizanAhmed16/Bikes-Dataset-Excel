@@ -41,7 +41,7 @@ The dashboard provides an interactive interface to explore the data. It includes
 - **Slicers:** Interactive elements to filter data by various criteria such as date, region, and bike model.
 
 ## Screenshots
-![Dashboard Overview](link_to_screenshot)
+![Dashboard Overview](https://github.com/FaizanAhmed16/Bikes-Dataset-Excel/blob/main/Bikes-Dashboard.JPG)
 
 ## Contributing
 Feel free to open an issue or submit a pull request if you have suggestions or improvements.
